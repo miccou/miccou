@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/miccou/miccou/first-draft/miccou-header.png)
-<h3 align="center">Developer | Builder | Learner | Technologist</h3>
+<h3 align="center">Developer | Tinkerer | Learner</h3>
 
 ## [~]$ whoami
 - Full stack developer (Angular / .NET / Postgres)
@@ -8,7 +8,6 @@
   - Scrabble x Candy Crush
 - **Currently learning:**
   - Game development in Unity
-  - Shaders
   - Better design
   - Professional proompting
 - **Hobbies:**
