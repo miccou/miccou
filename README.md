@@ -1,11 +1,7 @@
 ![](https://raw.githubusercontent.com/miccou/miccou/first-draft/miccou-header.png)
-<h3 align="center">Developer | Tinkerer | Learner</h3>
 
 ## [~]$ whoami
 - Full stack developer (Angular / .NET / Postgres)
-- **Currently working on:**
-  - Podcast app
-  - Scrabble x Candy Crush
 - **Currently learning:**
   - Game development in Unity
   - Better design
