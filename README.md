@@ -3,8 +3,8 @@
 ## [~]$ whoami
 - Full stack developer (Angular / .NET / Postgres)
 - **Currently learning:**
-  - Game development in Unity
-  - Better design
+  - Next.js
+  - AWS CloudFormation
   - Professional proompting
 - **Hobbies:**
   - Buying, building, and using mechanical keyboards (check out my [Instagram](https://www.instagram.com/next.mech/))
