@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/miccou/miccou/miccou-header.png)
+![](https://raw.githubusercontent.com/miccou/miccou/refs/heads/master/miccou-header.png)
 
 ## [~]$
 <!-- 
